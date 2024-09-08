@@ -2,10 +2,11 @@
 
 Este repositorio contiene los trabajos prácticos realizados durante el curso en Senati. El objetivo es proporcionar ejemplos prácticos de cómo utilizar Python y bibliotecas populares para el desarrollo de modelos de Machine Learning, así como buenas prácticas en la estructuración de código en paquetes y módulos. :robot:
 
-**Senati cuarto semestre... 👇**
+**Senati ... 👇**
 
 - **Senati** :alien: [Ingeniería de Software con Inteligencia Artificial](https://www.senati.edu.pe/especialidades/tecnologias-de-la-informacion/ingenieria-de-software-con-inteligencia-artificial)
-- **GitHub** 🐙: [Juanito](https://github.com/juanitoeldesastre)
+- **GitHub** 🐙: [Trabajo](https://github.com/juanitoeldev)
+- **Google** [Curso](https://developers.google.com/machine-learning/crash-course)
 
 ## Presente 🙋‍♂️
 
