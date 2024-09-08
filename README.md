@@ -1,6 +1,6 @@
-## Descripción del Proyecto
+# Módulos y Paquetes para Machine Learning con Python**
 
-# Este repositorio contiene los trabajos prácticos realizados durante el curso de **Módulos y Paquetes para Machine Learning con Python** en Senati. El objetivo es proporcionar ejemplos prácticos de cómo utilizar Python y bibliotecas populares para el desarrollo de modelos de Machine Learning, así como buenas prácticas en la estructuración de código en paquetes y módulos. :robot:
+Este repositorio contiene los trabajos prácticos realizados durante el curso de  en Senati. El objetivo es proporcionar ejemplos prácticos de cómo utilizar Python y bibliotecas populares para el desarrollo de modelos de Machine Learning, así como buenas prácticas en la estructuración de código en paquetes y módulos. :robot:
 
 **Senati cuarto semestre... 👇**
 
