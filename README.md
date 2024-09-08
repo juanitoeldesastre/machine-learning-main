@@ -9,4 +9,4 @@
 
 **Si encuentras errores**, agradecería mucho que me indicaras dónde están y cuáles son. ¡Definitivamente eres bienvenido a participar y mejorar! 👍 :grin: 
 
-[¡Gracias!] 🙇‍♂️ (https://github.com/juanitoeldesastre).
+[¡Gracias!](https://github.com/juanitoeldesastre)🙇‍♂️ 
