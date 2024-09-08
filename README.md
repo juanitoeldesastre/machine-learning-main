@@ -7,6 +7,6 @@
 
 ## Presente 🙋‍♂️
 
-**Si encuentras errores**, agradecería mucho que me indicaras dónde están y cuáles son. ¡Definitivamente eres bienvenido a participar y mejorar! 👍 :grin: [YO](https://github.com/juanitoeldesastre).
+**Si encuentras errores**, agradecería mucho que me indicaras dónde están y cuáles son. ¡Definitivamente eres bienvenido a participar y mejorar! 👍 :grin: 
 
-¡Gracias! 🙇‍♂️
+[¡Gracias!] 🙇‍♂️ (https://github.com/juanitoeldesastre).
