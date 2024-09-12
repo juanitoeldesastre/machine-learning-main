@@ -9,7 +9,3 @@ Este repositorio contiene los trabajos prácticos realizados durante el curso en
 - **Google** :nerd_face: [Curso](https://developers.google.com/machine-learning/crash-course)
 
 ## Presente 🙋‍♂️
-
-**Si encuentras errores**, agradecería mucho que me indicaras dónde están y cuáles son. ¡Definitivamente eres bienvenido a participar y mejorar! 👍 :grin: 
-
-¡Gracias!🙇‍♂️ 
