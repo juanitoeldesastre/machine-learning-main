@@ -1,0 +1,6 @@
+id,nombre,edad,ciudad,salario
+1,Juan,28,México,50000
+2,Ana,NaN,México,60000
+3,Pablo,35,Bogotá,45000
+4,Luis,40,Chile,70000
+5,Maria,30,Bogotá,52000
