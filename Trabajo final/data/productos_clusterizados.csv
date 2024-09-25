@@ -1,0 +1,101 @@
+ID_Producto,Categoria,Precio,Moneda,Marca,Descripción,Rating_Promedio,Cluster
+1,Tecnología,104.9,COP,HA,sinergia didáctica reactivo,3.4,1
+2,Electrónica,38.8,MXN,Apple,algoritmo modular extendido,4.4,1
+3,Electrohogar,807.27,MXN,GE,Reduced grid-enabled architecture,3.3,0
+4,Electrónica,506.6,COP,Panasonic,Multi-layered well-modulated task-force,3.8,0
+5,Tecnología,525.04,CLP,Panasonic,Implemented leadingedge solution,4.2,0
+6,Ropa,855.84,MXN,Samsung,infraestructura terciaria administrado,2.7,2
+7,Electrohogar,180.28,COP,Akita,medición 24 horas fundamental,2.9,1
+8,Tecnología,952.35,MXN,LG,encriptar orientada a soluciones recontextualizado,1.4,2
+9,Gaming,279.23,COP,Panasonic,colaboración bifurcada personalizable,1.6,1
+10,Electrónica,718.92,COP,Akita,Vision-oriented content-based contingency,3.3,0
+11,Ropa,824.49,CLP,Xiaomi,migración homogénea orientado a equipos,2.8,2
+12,Gaming,812.49,CLP,Samsung,política basado en necesidades operativo,3.6,0
+13,Gaming,70.99,MXN,Panasonic,Reactive eco-centric solution,2.3,1
+14,Electrónica,529.09,ARS,Panasonic,base del conocimiento global configurable,2.7,2
+15,Electrónica,745.3,ARS,Apple,paradigma 4ta generación multiplataforma,3.1,2
+16,Tecnología,625.92,CLP,Panasonic,Proactive cohesive monitoring,2.3,2
+17,Tecnología,225.62,COP,Sony,Secured scalable algorithm,4.0,1
+18,Tecnología,800.39,CLP,Panasonic,Universal tertiary paradigm,4.6,0
+19,Gaming,248.75,COP,Sony,Exclusive 3rdgeneration workforce,4.9,0
+20,Electrohogar,290.48,COP,Sony,Cloned empowering focus group,4.7,0
+21,Ropa,688.86,ARS,Nike,Universal national secured line,5.0,0
+22,Electrónica,743.51,CLP,Panasonic,Innovative directional methodology,2.4,2
+23,Electrónica,715.22,COP,Sony,data-warehouse multiestado enfocado a ganancias,4.2,0
+24,Gaming,956.96,COP,Akita,encriptar incremental monitoreado,4.3,0
+25,Electrónica,845.13,COP,Apple,mediante ejecutiva fundamental,1.9,2
+26,Tecnología,570.44,COP,Xiaomi,Open-source mission-critical model,2.1,2
+27,Tecnología,963.75,MXN,Akita,Optimized didactic emulation,1.1,2
+28,Ropa,916.79,MXN,Xiaomi,Focused global product,4.9,0
+29,Tecnología,671.1,ARS,Panasonic,Vision-oriented discrete forecast,2.5,2
+30,Gaming,324.6,CLP,Samsung,Streamlined dynamic moratorium,3.3,1
+31,Electrohogar,782.11,COP,Akita,Front-line radical migration,2.8,2
+32,Tecnología,866.8,ARS,Apple,Realigned user-facing ability,4.7,0
+33,Electrónica,549.66,CLP,Apple,conjunto de instrucciones terciaria perseverante,3.2,0
+34,Electrohogar,45.16,MXN,GE,Organized real-time complexity,1.7,1
+35,Electrónica,587.47,COP,GE,Adaptive local moderator,4.7,0
+36,Gaming,862.77,COP,Panasonic,Multi-tiered methodical toolset,4.6,0
+37,Tecnología,31.75,CLP,LG,aplicación incremental digitalizado,3.5,1
+38,Tecnología,568.25,MXN,Akita,Object-based full-range middleware,3.4,0
+39,Electrónica,108.93,COP,GE,Upgradable web-enabled definition,1.5,1
+40,Tecnología,151.78,MXN,Samsung,definición óptima multi-capas,4.3,1
+41,Tecnología,38.86,MXN,Sony,portal homogénea de primera línea,3.1,1
+42,Electrohogar,256.61,ARS,LG,estandarización sistemática digitalizado,1.1,1
+43,Electrohogar,25.53,COP,HA,Re-engineered user-facing project,3.4,1
+44,Electrónica,460.73,MXN,HA,portal misión crítica balanceado,4.2,0
+45,Electrónica,952.85,CLP,GE,Devolved reciprocal implementation,2.6,2
+46,Gaming,108.35,MXN,Samsung,Advanced impactful moderator,4.1,1
+47,Electrónica,787.03,CLP,Nike,adaptador tangible en red,2.8,2
+48,Ropa,969.58,MXN,Samsung,estandarización uniforme clonado,1.0,2
+49,Gaming,801.03,CLP,Apple,intranet basado en necesidades fundamental,2.3,2
+50,Electrohogar,789.59,COP,Xiaomi,actitud asimétrica exclusivo,4.1,0
+51,Gaming,554.22,ARS,Xiaomi,Organic interactive infrastructure,1.7,2
+52,Electrónica,835.48,COP,LG,Streamlined even-keeled Local Area Network,3.2,2
+53,Tecnología,401.21,CLP,HA,Proactive asymmetric hardware,2.4,1
+54,Ropa,106.83,MXN,Apple,base del conocimiento global preventivo,3.8,1
+55,Electrohogar,990.19,MXN,Panasonic,Secured dynamic attitude,5.0,0
+56,Gaming,569.18,COP,Sony,emulación basado en necesidades monitoreado,4.9,0
+57,Electrónica,636.57,COP,Nike,Public-key logistical firmware,4.5,0
+58,Electrónica,23.32,MXN,Sony,Secured bi-directional frame,4.1,1
+59,Electrónica,114.4,MXN,Akita,interfaz vía web exclusivo,2.1,1
+60,Electrohogar,882.64,MXN,Panasonic,Managed asynchronous implementation,4.9,0
+61,Electrohogar,95.44,CLP,Sony,circuito amplio abanico horizontal,3.0,1
+62,Tecnología,906.31,COP,Nike,archivo multitarea seguro,2.3,2
+63,Tecnología,923.2,ARS,Sony,enfoque estable configurable,3.6,0
+64,Electrónica,46.74,CLP,HA,modelo dedicada automatizado,2.4,1
+65,Electrohogar,84.99,MXN,LG,Cross-platform leadingedge concept,2.7,1
+66,Gaming,355.12,COP,GE,acceso tiempo real mejorado,1.3,1
+67,Gaming,802.84,MXN,Panasonic,complejidad innovadora recontextualizado,3.6,0
+68,Tecnología,788.3,COP,HA,protocolo heurística total,4.1,0
+69,Ropa,990.13,MXN,HA,Expanded motivating workforce,4.0,0
+70,Gaming,72.17,COP,HA,estructura óptima compatible,2.9,1
+71,Tecnología,208.96,CLP,Nike,groupware logística multi-capas,1.6,1
+72,Gaming,858.29,MXN,Akita,Open-source grid-enabled framework,1.0,2
+73,Electrohogar,187.12,CLP,GE,Automated reciprocal conglomeration,2.9,1
+74,Ropa,199.72,MXN,Nike,marco de tiempo explícita mandatorio,3.6,1
+75,Electrónica,830.28,COP,Sony,aprovechar transicional adaptativo,1.3,2
+76,Tecnología,836.42,ARS,Apple,sinergia regional centralizado,2.3,2
+77,Electrónica,984.24,ARS,Xiaomi,colaboración motivadora clonado,4.3,0
+78,Electrohogar,305.21,COP,Nike,acceso innovadora configurable,1.2,1
+79,Tecnología,714.23,COP,GE,Devolved multi-state info-mediaries,1.5,2
+80,Electrohogar,856.38,MXN,HA,Face-to-face bi-directional access,1.7,2
+81,Gaming,22.82,CLP,Sony,Profit-focused 24hour methodology,4.4,1
+82,Ropa,258.05,ARS,Panasonic,codificar asíncrona versátil,3.3,1
+83,Ropa,269.85,MXN,LG,habilidad 6ta generación proactivo,5.0,0
+84,Gaming,741.68,COP,Samsung,Inverse analyzing system engine,1.8,2
+85,Gaming,787.49,CLP,GE,emulación misión crítica asimilado,2.9,2
+86,Gaming,888.76,ARS,LG,iniciativa amplio abanico operativo,1.4,2
+87,Gaming,461.87,CLP,Sony,Future-proofed upward-trending application,3.7,0
+88,Electrónica,351.39,CLP,Panasonic,funcionalidad nacional implementado,2.6,1
+89,Tecnología,137.07,MXN,Nike,previsión nueva generación distribuido,1.3,1
+90,Electrohogar,431.04,MXN,Samsung,proyección nueva generación centrado en el usuario,4.4,0
+91,Tecnología,77.93,CLP,LG,Robust intermediate service-desk,1.7,1
+92,Electrónica,806.69,ARS,Nike,migración multiestado enfocado,2.8,2
+93,Gaming,125.1,ARS,Nike,sinergia valor añadido configurable,3.3,1
+94,Ropa,279.37,COP,GE,funcionalidad generada por el cliente mejorado,2.5,1
+95,Electrónica,240.74,ARS,Samsung,Re-contextualized asymmetric hub,4.8,0
+96,Electrohogar,599.26,COP,Nike,Organic hybrid extranet,4.5,0
+97,Electrohogar,488.74,MXN,HA,Synchronized needs-based leverage,4.4,0
+98,Ropa,887.53,COP,Xiaomi,Persistent human-resource solution,4.4,0
+99,Ropa,76.61,ARS,Samsung,Automated client-driven firmware,2.6,1
+100,Electrónica,462.29,COP,GE,Robust 24hour monitoring,2.6,1

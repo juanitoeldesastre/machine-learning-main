@@ -1,0 +1,51 @@
+ID_Usuario,Nombre,Edad,Género,Ubicación,Preferencias,Likes
+1,Raquel Mercedes Arguello Tijerina,19,Femenino,Mostazal,Electrónica,"[95, 100]"
+2,Juan Agüero García,29,Masculino,Trujillo,"Tecnología, Ropa","[19, 61, 56, 1]"
+3,Bernardino Bravo,36,Femenino,Arequipa,"Tecnología, Electrónica, Ropa","[38, 44, 96, 20, 89]"
+4,Santino Benjamin Luisana Bravo Maidana,39,Masculino,Chillán,Electrónica,"[98, 1, 77, 83, 19]"
+5,María Mayte Rangel,52,Femenino,San Estefanía los altos,"Gaming, Electrohogar","[46, 93]"
+6,César Luis Mendoza,35,Femenino,Entrerríos,"Electrónica, Ropa","[91, 69, 1, 78]"
+7,Olivia Santiago Gonzalez,25,Masculino,Puerto Boyacá,"Electrónica, Ropa","[80, 72, 41, 63, 4]"
+8,Maria Emilia Benjamin Nuñez Juarez,48,Femenino,Ciudad de Mexico,"Gaming, Tecnología, Ropa","[55, 6, 14]"
+9,Elvira Avilés,28,Femenino,Lima,"Tecnología, Ropa","[43, 45, 59, 75]"
+10,Sr(a). Josefina Ramirez,63,Femenino,Mejillones,"Gaming, Ropa","[44, 99, 21, 54]"
+11,Marina Ramírez,39,Femenino,Buenos aires,"Tecnología, Electrónica","[80, 25, 39]"
+12,Felipe Tiziano Quispe Ruiz,31,Masculino,Tacna,Electrónica,[50]
+13,Bautista Gomez,53,Masculino,Juliaca,"Ropa, Gaming, Electrohogar",[25]
+14,Vanesa Villagómez Osorio,18,Femenino,Urumita,"Ropa, Electrohogar, Electrónica","[94, 12, 24]"
+15,Juliana María Ruiz,42,Femenino,San Bernardo los altos,Ropa,[68]
+16,Florencia Alma Mia Rodriguez Coronel,65,Masculino,La Plata,"Electrohogar, Tecnología",[56]
+17,Aurelio Verónica Lomeli,53,Masculino,Salta,"Ropa, Gaming, Electrohogar","[59, 17, 67]"
+18,José Marco Faúndez Barrera,55,Femenino,Valle de San José,"Electrohogar, Electrónica, Ropa",[87]
+19,Alma Benitez,18,Femenino,Nilo,"Electrónica, Gaming","[59, 86]"
+20,Irene Guajardo,31,Masculino,Formosa,Gaming,"[80, 72, 43]"
+21,Agustín Julia Navarro,59,Masculino,Mendoza,"Electrohogar, Gaming","[60, 51, 34, 39]"
+22,Mtro. Camila Páez,29,Masculino,Machalí,"Ropa, Electrohogar","[7, 69, 39]"
+23,Frida Nicolás Segovia Delgadillo,29,Femenino,San Víctor los bajos,"Tecnología, Gaming",[74]
+24,Juan Nancy Lovato Lebrón,57,Femenino,Villanueva,"Gaming, Electrónica, Ropa",[79]
+25,Luisa Chaparro,23,Masculino,San Gerardo de la Montaña,"Ropa, Tecnología, Electrohogar","[74, 62]"
+26,Ciro Andrés Duque,19,Masculino,Neuquén,Gaming,"[16, 77, 71]"
+27,Giovanni Herrera,42,Femenino,Tacna,"Electrónica, Ropa","[44, 85]"
+28,Ing. Esther Casanova,32,Masculino,Curillo,"Ropa, Electrohogar",[20]
+29,Renata Valentin Rodriguez,45,Masculino,Vieja Cabo Verde,"Electrónica, Electrohogar","[28, 11, 83, 1]"
+30,Felicitas Herrera Carrizo,42,Femenino,Peñalolén,"Electrónica, Gaming, Electrohogar",[66]
+31,Miriam Javiera Rojas Cárdenas,44,Femenino,Lo Espejo,"Tecnología, Gaming",[55]
+32,Yolanda Alcala Bermúdez,53,Femenino,Coelemu,Tecnología,"[90, 18]"
+33,Sr(a). Eloy Monroy,37,Femenino,Rosario,"Ropa, Electrónica, Tecnología","[65, 97, 23, 28, 76]"
+34,Alberto Luis Fajardo,42,Femenino,San Miguel de Tucumán,"Ropa, Tecnología","[19, 59]"
+35,Patricia González,23,Masculino,Colina,"Gaming, Tecnología","[33, 81, 10]"
+36,Dr(a). Santiago Sosa,31,Femenino,Lima,"Tecnología, Gaming, Electrohogar","[99, 88]"
+37,Javier Samuel Garrido Morales,43,Femenino,Tacna,"Tecnología, Gaming","[85, 61, 29, 3]"
+38,Francisco Tomas Gonzalez Rios,36,Femenino,Monterrey,"Ropa, Tecnología","[78, 39, 28]"
+39,Dolores Quintana,23,Masculino,Viedma,"Electrónica, Gaming","[90, 2, 34]"
+40,Claudia Constanza Rozas Barría,49,Femenino,San Anabel los altos,"Electrónica, Tecnología, Gaming","[45, 14, 48, 76]"
+41,Isabella Lopez,41,Femenino,Ráquira,Electrohogar,"[63, 64, 76, 55, 28]"
+42,Blanca Mariela Espinoza Espinoza,25,Femenino,Arequipa,"Electrónica, Gaming, Electrohogar",[30]
+43,Ana Paula Ramírez Díaz,23,Femenino,Moquegua,Tecnología,"[49, 24]"
+44,Alicia Fernanda Rodríguez Bruna,47,Masculino,Monterrey,Electrónica,"[59, 21, 36, 71, 75]"
+45,Juan Pablo Gonzalez,58,Masculino,,"Electrónica, Tecnología, Gaming",[72]
+46,Alma Ernesto Padilla Tafoya,46,Femenino,Bogota,"Ropa, Electrónica, Gaming","[67, 57]"
+47,Nelly Maira Bravo Fuentealba,60,Femenino,Chiclayo,Electrohogar,"[13, 16, 92, 11, 77]"
+48,Andrés Sebastián Sepúlveda Ortiz,59,Masculino,Llaillay,"Electrohogar, Tecnología, Electrónica","[80, 97]"
+49,Alonso José Rodríguez Álvarez,40,Masculino,San Luis de Gaceno,"Electrónica, Ropa","[46, 19, 40]"
+50,Federico Ledesma,49,Femenino,San Yeni los bajos,"Ropa, Electrohogar",[21]
