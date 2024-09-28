@@ -10,6 +10,7 @@ Se contiene el trabajo final para el curso de módulos y paquetes en Python. Aqu
    ```bash
    pip install -r requirements.txt
 
+
 2. **Navegar a las carpetas de scripts**  
    Dirígete a la carpeta `scripts` y luego a las subcarpetas correspondientes. Utiliza el comando `cd` para acceder a cada carpeta:
 
@@ -23,3 +24,9 @@ Se contiene el trabajo final para el curso de módulos y paquetes en Python. Aqu
    ```bash
    python leer_datos.py
    ```
+
+## ⚡ Consejo  
+Para un evitar tener que instalar las dependencias, puedes ejecutar este proyecto en **GitHub Codespaces**. Te permitirá trabajar en la nube sin necesidad de configurar todo localmente. 🚀
+```
+
+   
