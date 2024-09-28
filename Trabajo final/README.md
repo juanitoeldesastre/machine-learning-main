@@ -27,6 +27,3 @@ Se contiene el trabajo final para el curso de módulos y paquetes en Python. Aqu
 
 ## ⚡ Consejo  
 Para un evitar tener que instalar las dependencias, puedes ejecutar este proyecto en **GitHub Codespaces**. Te permitirá trabajar en la nube sin necesidad de configurar todo localmente. 🚀
-```
-
-   
